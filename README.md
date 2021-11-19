@@ -1,6 +1,4 @@
-# Java 
-# Web Parser 
-# HTML Web Site 
-# JSoup
+# Web HTML Site Parser 
+# Java JSoup
 
 
